@@ -1,0 +1,34 @@
+{
+  "assets": [],
+  "build": {
+    "build_id": "E276B6EA-74",
+    "build_number": 74,
+    "build_time": 1591941179931,
+    "release": false
+  },
+  "encryptLevel": 0,
+  "useFeatures": [],
+  "icon": "res/logo.png",
+  "launchConfig": {
+    "displaySplash": true,
+    "hideLogs": true,
+    "splashIcon": "res/splashIcon.png",
+    "splashText": "Powered by Auto.js Pro",
+    "stableMode": false
+  },
+  "main": "main.js",
+  "name": "弹射世界铃铛助手",
+  "optimization": {
+    "removeOpenCv": false,
+    "unusedResources": false
+  },
+  "packageName": "com.diy.wfauto",
+  "scripts": {},
+  "signingConfig": {
+    "alias": "",
+    "keystore": "",
+    "uuid": ""
+  },
+  "versionCode": 1,
+  "versionName": "1.6.0"
+}
