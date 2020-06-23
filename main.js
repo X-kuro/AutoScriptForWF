@@ -174,9 +174,9 @@ var missionList = storage.get("items", [
     {
         title: "机器人（光）",
         superLV: "./关卡图/机器人超级.jpg",
-        superLVEnable: "gone",
+        superLVEnable: "visible",
         upPlusLV: "./关卡图/机器人上级+.jpg",
-        upPlusLVEnable: "gone",
+        upPlusLVEnable: "visible",
         upLV: "./关卡图/机器人上级.jpg"
     },
     {
@@ -202,14 +202,6 @@ var missionList = storage.get("items", [
         upPlusLV: "./关卡图/大蛇上级+.jpg",
         upPlusLVEnable: "gone",
         upLV: "./关卡图/大蛇上级.jpg"
-    },
-    {
-        title: "活动(舟卫兵)",
-        superLV: "./关卡图/活动超级.jpg",
-        superLVEnable: "gone",
-        upPlusLV: "./关卡图/活动上级+.jpg",
-        upPlusLVEnable: "visible",
-        upLV: "./关卡图/活动上级.jpg"
     }
     //{
         //title: "活动2",
