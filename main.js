@@ -202,7 +202,7 @@ var missionList = storage.get("items", [
         upPlusLV: "./关卡图/大蛇上级+.jpg",
         upPlusLVEnable: "gone",
         upLV: "./关卡图/大蛇上级.jpg"
-    }
+    },
     {
         title: "水废龙",
         superLV: "./关卡图/活动超级.jpg",
