@@ -203,14 +203,14 @@ var missionList = storage.get("items", [
         upPlusLVEnable: "gone",
         upLV: "./关卡图/大蛇上级.jpg"
     }
-    //{
-        //title: "活动2",
-        //superLV: "./关卡图/活动2超级.jpg",
-        //superLVEnable: "visible",
-        //upPlusLV: "./关卡图/活动2上级+.jpg",
-       // upPlusLVEnable: "gone",
-       // upLV: "./关卡图/活动2上级.jpg"
-   // }
+    {
+        title: "水废龙",
+        superLV: "./关卡图/活动超级.jpg",
+        superLVEnable: "gone",
+        upPlusLV: "./关卡图/活动上级+.jpg",
+        upPlusLVEnable: "visible",
+        upLV: "./关卡图/活动上级.jpg"
+    }
 ]);;
 ui.missionList.setDataSource(missionList);
 ui.missionList.on("item_bind", function (itemView, itemHolder) {

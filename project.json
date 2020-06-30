@@ -1,9 +1,9 @@
 {
   "assets": [],
   "build": {
-    "build_id": "E276B6EA-74",
-    "build_number": 74,
-    "build_time": 1591941179931,
+    "build_id": "F96C1CAA-75",
+    "build_number": 75,
+    "build_time": 1592918996106,
     "release": false
   },
   "encryptLevel": 0,
@@ -30,5 +30,5 @@
     "uuid": ""
   },
   "versionCode": 1,
-  "versionName": "1.6.0"
+  "versionName": "1.7.0"
 }
